@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Unity-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Project Arsen \u21164\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1343129B-0197-D779-ED3B-379B976C5371}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\unity-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\project arsen \u21164\\assets\\script\\graund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1343129B-0197-D779-ED3B-379B976C5371}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\graund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1343129B-0197-D779-ED3B-379B976C5371}|Assembly-CSharp.csproj|C:\\Users\\admin\\Documents\\Unity-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Project Arsen \u21164\\assets\\script\\hock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1343129B-0197-D779-ED3B-379B976C5371}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\hock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1343129B-0197-D779-ED3B-379B976C5371}|Assembly-CSharp.csproj|C:\\Users\\admin\\Documents\\Unity-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Project Arsen \u21164\\assets\\script\\solidobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1343129B-0197-D779-ED3B-379B976C5371}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\solidobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 231,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SolidObject.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Unity-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Project Arsen \u21164\\Assets\\Script\\SolidObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SolidObject.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Unity-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Project Arsen \u21164\\Assets\\Script\\SolidObject.cs",
+              "RelativeToolTip": "Assets\\Script\\SolidObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T14:58:26.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hock.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Unity-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Project Arsen \u21164\\Assets\\Script\\Hock.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Hock.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Unity-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Project Arsen \u21164\\Assets\\Script\\Hock.cs",
+              "RelativeToolTip": "Assets\\Script\\Hock.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T14:20:26.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Graund.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Unity-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Project Arsen \u21164\\Assets\\Script\\Graund.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Graund.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Unity-\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Project Arsen \u21164\\Assets\\Script\\Graund.cs",
+              "RelativeToolTip": "Assets\\Script\\Graund.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T14:26:33.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 87,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
